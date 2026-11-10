@@ -1,9 +1,9 @@
-# DAA Assignment 1: Divide and Conquer & Asymptotic Notations
+# DAA: Divide and Conquer & Asymptotic Notations
 
-Author: Gulsezim Kapizova, group SE2517
-Course: Design and Analysis of Algorithms
+Author: Gulsezim Kapizova
+Subject: Design and Analysis of Algorithms
 
-This project is my solution for Assignment 1. It contains my own implementations of MergeSort, QuickSort and QuickSelect in Java, a small metrics system, a benchmark that writes results to a CSV file, and JUnit 5 tests. The analysis of the results (bounds, recurrences, plots and discussion) is in `REPORT.md`.
+This project: contains my own implementations of MergeSort, QuickSort and QuickSelect in Java, a small metrics system, a benchmark that writes results to a CSV file, and JUnit 5 tests. The analysis of the results (bounds, recurrences, plots and discussion) is in `REPORT.md`.
 
 ## What is implemented
 
